@@ -1,5 +1,5 @@
 # CompareImage 
-PHP fast image compare. Get hash string and detect duplicate image
+PHP fast image compare lib. Get hash string and detect duplicate image
 
 ## Example
 
