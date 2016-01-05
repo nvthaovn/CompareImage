@@ -11,7 +11,7 @@ $diff = $compareMachine->compareWith($image2);
 ```
 ## Other way
 ```
-$image2Hash = $compareMachine->getHasString(); 
+$image2Hash = $compareMachine->hasStringImage($image2); 
 $diff = $compareMachine->compareHash($image2Hash);
 ```
 ## Result
